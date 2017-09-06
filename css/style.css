@@ -1,0 +1,238 @@
+.container-fluid{
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-left: : 0px;
+    margin-right: 0px;
+
+}
+.home{
+    /*background-image: url('images/u2_state0.jpg')
+    background-size:cover;
+    background-size:center center;
+    background-size:no-repeat;*/
+
+    width: 100%;
+    height: 636px;
+}
+.Hleft{
+    float: left;
+    width: 480px;
+    height: 400px;
+    margin-top: 100px;
+    margin-left: 150px;
+    color: white;
+    font-size: 30px;
+}
+.transparent_btn{
+    /*background-color: transparent;
+    box-sizing: border-box;
+    padding: 0.5cm 0.75cm;
+    border: 5px solid white;
+    border-radius: 1cm;*/
+    display: inline-block;
+    font-size: 14px;
+    font-style: bold;
+    line-height: 120%;
+    color: white;
+    background-color: transparent;
+    border: 2px solid white;
+    padding: 10px 27px;
+}
+.Hright{
+    float: right;
+    background-color: white;
+    height: 320px;
+    width: 320px;
+    margin-top: 100px;
+    margin-right: 210px;
+    border-radius: 0.05cm;
+}
+.upperRec{
+    background-color:#f5f5f5;
+    color: black;
+    font-size: 20px;
+    width: 320px;
+    height: 50px;
+    border-radius: 0.05cm;
+    text-align: center;
+    padding-top: 10px;
+}
+.middle{
+    width: 320px;
+    height: 240px;
+    /*background-color: blue;*/
+    text-align: center;
+    padding-top: 40px;
+
+}
+.lowerRec{
+    background-color: #ff9b51;
+    color: white;
+    font-size: 20px;
+    width: 320px;
+    height: 50px;
+    border-radius: 0.05cm;
+    text-align: center;
+    padding-top: 10px
+}
+.socialMedia{
+    width: 100%;
+    height: 100px;
+    background-color: white;
+    margin-top: 550px;
+
+}
+.klam{
+    float: left;
+    width: 470px;
+}
+.icons{
+    float: right;
+    margin-right: 150px;
+}
+.Features{
+    padding-left: 150px;
+    padding-right: 150px;
+    background-color: #f5f5f5;
+    width: 100%;
+    height: 500px;
+    padding-top: 100px
+}
+.tab1{
+    width: 100px;
+    height: 100px;
+    background-color: #ff8b38;
+    border-radius: 0.14cm;
+    text-align: center;
+    color: white;
+    padding-top: 43px;
+}
+.tab2{
+    width: 100px;
+    height: 100px;
+    background-color: #333333;
+    border-radius: 0.14cm;
+    margin-top: 1px;
+    text-align: center;
+    color: white;
+    padding-top: 43px;
+}
+.btn{
+    display: inline-block;
+    font-size: 14px;
+    font-style: bold;
+    line-height: 120%;
+    color: white;
+    background-color: #ff8b38;
+    border: 2px solid white;
+    padding: 10px 27px;
+    margin-top: 40px;
+}
+.feature2{
+    padding-left: 150px;
+    padding-right: 150px;
+    width: 100%;
+    height: 500px;
+    padding-top: 70px;
+}
+.upload{
+    display: inline-block;
+    font-size: 25px;
+    font-style: bold;
+    line-height: 120%;
+    color: #ff8b38;
+    background-color: transparent;
+    border: 2px solid #ff8b38;
+    padding: 10px 11px;
+    border-radius: 5cm;
+}
+.uploadL{
+    display: inline-block;
+    font-size: 25px;
+    font-style: bold;
+    line-height: 120%;
+    color: #ff8b38;
+    background-color: transparent;
+    border: 2px solid #ff8b38;
+    padding: 10px 19px;
+    border-radius: 5cm;
+}
+.feature3{
+    padding-left: 150px;
+    padding-right: 150px;
+    width: 100%;
+    height: 500px;
+    padding-top: 70px
+}
+.pricing{
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 150px;
+    padding-right: 150px;
+    width: 100%;
+    height: 800px;
+    padding-top: 70px;
+    background-color: #f5f5f5;
+    color: #86878b;
+    text-align: center;
+}
+.rectangles{
+    width: 100px;
+    margin-top: 100px;
+    height: 350px;
+    background-color: white;
+    margin-right: 30px;
+}
+.rectangle{
+    width: 100px;
+    margin-top: 50px;
+    height: 400px;
+    background-color: white;
+    margin-right: 30px;
+}
+.blackbox{
+    width: 300px;
+    background-color: #333333;
+    height:150px;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    padding-top: 10px;
+}
+.orangebox{
+    width: 300px;
+    background-color: #ff8b38;
+    height:5px;
+    margin-bottom: 8px;
+
+}
+.orangeBox{
+    width: 300px;
+    background-color: #ff8b38;
+    height:38px;
+    text-align: center;
+    color: white;
+    font-size: 13px;
+    padding-top: 10px;
+    margin-bottom: 8px;
+}
+.qoute{
+    width:310px;
+    height: 100px;
+    background-color: #f5f5f5;
+    color: #b0b0b3;
+    padding-top: 10px;
+    padding-left: 7px;
+    border-radius: 0.1cm;
+    margin-bottom: 20px;
+}
+.noborderbtn{
+    display: inline-block;
+    font-style: bold;
+    line-height: 120%;
+    color: white;
+    background-color: transparent;
+    margin-left: 30px;
+    padding: 0px 0px;
+    padding-top: 0px;
+}
